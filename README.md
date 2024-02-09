@@ -14,7 +14,7 @@ This project is a starting point for a Flutter application.
 
 ## SnapShot of an app
 
-![](/Users/nipuntank/Desktop/Imp/AppDev/meals/Snapshots/Simulator Screenshot - iPhone 15 Pro Max - 2024-02-10 at 02.05.26.png)
+![Image]('/Users/nipuntank/Desktop/Imp/AppDev/meals/Snapshots/Simulator Screenshot - iPhone 15 Pro Max - 2024-02-10 at 02.05.26.png')
 ![Alt Text](/Users/nipuntank/Desktop/Imp/AppDev/meals/Snapshots/Simulator Screenshot - iPhone 15 Pro Max - 2024-02-10 at 02.05.31.png)
 
 ![](/Users/nipuntank/Desktop/Imp/AppDev/meals/Snapshots/Simulator Screenshot - iPhone 15 Pro Max - 2024-02-10 at 02.05.37.png)

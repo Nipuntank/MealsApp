@@ -15,28 +15,10 @@ This project is a starting point for a Flutter application.
 ## SnapShot of an app
 <p>
   <img src="Snapshots/1.png" width=200></img>
-&nbsp
-&nbsp
 <img src="Snapshots/2.png" width=200></img>
-&nbsp
-&nbsp
 <img src="Snapshots/3.png" width=200></img>
 <br>
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
 <img src="Snapshots/4.png" width=200></img>
-&nbsp
-&nbsp
-&nbsp
-&nbsp
-&nbsp
 <img src="Snapshots/5.png" width=200></img>
 
 </p>

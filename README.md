@@ -1,16 +1,15 @@
 # meals
 
-A new Flutter project.
+An app centered around Indian cuisine, highlighting popular dishes nationwide. It provides detailed recipes, ingredients, and incorporates filter options for users to personalize their culinary exploration based on preferences.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+1. Download the project in you device.
+2. Open the flutter project in IDE.
+3. Open terminal type "flutter pub -get".
+4. Type "flutter run".
+5. Choose device according to you ease.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## SnapShot of an app

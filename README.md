@@ -13,8 +13,10 @@ This project is a starting point for a Flutter application.
 5. Choose device according to you ease.
 
 ## SnapShot of an app
-![](Snapshots/1.png)
-![](Snapshots/2.png)
-![](Snapshots/3.png)
-![](Snapshots/4.png)
-![](Snapshots/5.png)
+<img src="Snapshots/1.png" width=200></img>
+<img src="Snapshots/2.png" width=200></img>
+<img src="Snapshots/3.png" width=200></img>
+<img src="Snapshots/4.png" width=200></img>
+<img src="Snapshots/5.png" width=200></img>
+
+

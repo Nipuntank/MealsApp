@@ -48,6 +48,12 @@ class FiltersScreen extends ConsumerWidget {
                 .read(filterProvider.notifier)
                 .setFilter(Filter.lactoseFree, isChecked);
           },
+          title: Text(
+            'Lactose-free',
+            style: Theme.of(context).textTheme.titleLarge!.copyWith(
+                  color: Theme.of(context).colorScheme.onBackground,
+                ),
+          ),
           subtitle: Text(
             'Only include lactose-free meals.',
             style: Theme.of(context).textTheme.labelMedium!.copyWith(

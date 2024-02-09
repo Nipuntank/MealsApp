@@ -13,17 +13,32 @@ This project is a starting point for a Flutter application.
 5. Choose device according to you ease.
 
 ## SnapShot of an app
-<img src="Snapshots/1.png" width=200></img>
+<p>
+  <img src="Snapshots/1.png" width=200></img>
+&nbsp
 &nbsp
 <img src="Snapshots/2.png" width=200></img>
+&nbsp
 &nbsp
 <img src="Snapshots/3.png" width=200></img>
 <br>
 &nbsp
 &nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
+&nbsp
 <img src="Snapshots/4.png" width=200></img>
 &nbsp
 &nbsp
+&nbsp
+&nbsp
+&nbsp
 <img src="Snapshots/5.png" width=200></img>
+
+</p>
 
 
